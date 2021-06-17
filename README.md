@@ -1,8 +1,6 @@
-- Segunda oportunidad
+- El Dojo Dodge de SCESILIA 
 
 - version 0
 
 
-- caracteristas:
-
-
+- lista de caracteristas
