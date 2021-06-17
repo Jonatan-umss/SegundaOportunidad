@@ -5,4 +5,4 @@
 
 - lista de caracteristas
 
-caracteristica 1 
+  - caracteristica 1 
